@@ -52,7 +52,7 @@ document.getElementById('ac').addEventListener('click', function ()
 });
 document.getElementById('c').addEventListener('click', function ()
 {
-    cals.innerText = cals.innerText.substring(0, cals.innerText.length-1);
+    cals.innerText = cals.innerText.substring(0, cals.innerText.length - 1);
 });
 document.getElementById('modulo').addEventListener('click', function ()
 {
